@@ -6,19 +6,19 @@ title: Release Assistant
 teaser: Gain better control and visibility throughout flag lifecycles.
 notes:
 - type: text
-  contents: Release Assistant lets you create release pipelines to move flags 
-    through various environments and stages.
+  contents: Release Assistant lets you create release pipelines to move flags through
+    various environments and stages.
 tabs:
-- id: sfhxfmhiksxs
+- id: ukrx0qidxgze
   title: LaunchDarkly
   type: browser
   hostname: launchdarkly
-- id: xmc3x7v2lc8r
+- id: 44wywwaxmosh
   title: Toggle Outfitters
   type: service
   hostname: workstation
   port: 3000
-- id: 70rmddgyhyts
+- id: i8e4orvh67l4
   title: Code Editor
   type: service
   hostname: workstation
